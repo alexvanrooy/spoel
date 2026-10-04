@@ -1,0 +1,22 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+TestResults/
+*.log
+.env
+.env.*
+!.env.example
+**/appsettings.Local.json
+*.pfx
+*.p12
+
+# Private working plan.
+/SPOEL_DESIGN.md
+
+# Local guidance pending owner review for publication.
+/AGENTS.md
+/CONTRIBUTING.md
